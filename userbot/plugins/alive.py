@@ -22,7 +22,7 @@ async def amireallyalive(alive):
                      "`GitHub`: **Connected**\n"
                      "`Heroku`: **Connected**\n"
                      "`Any Help` : @DexGram_Official\n
-                     "`Bot By`: Akki_ThePro\n\n"
+                     "`Bot By`: **@Akki_ThePro**\n\n"
 
-                     "[Deploy DexGram](https://github.com/Akshat7678/DexGram)"
+                     "[**Deploy DexGram**](https://github.com/Akshat7678/DexGram)"
                      
