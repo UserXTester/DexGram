@@ -6,11 +6,45 @@ MADE WITH ❤ BY ```[@Akki_ThePro⚡]```
 ### Installing 📊
 Contact [Me](https://telegram.dog/Akki_ThePro) to report bug or error.
 
-#### The Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAkshat7678%2FDexGram&template=https%3A%2F%2Fgithub.com%2FAkshat7678%2FDexGram)
 
-#### Repl.it
-[Run Here](https://replit.com/@AkshatKumar6/DexGram#main.py)
+### The Easy Way
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshat7678/DexGram/)
+
+Take Sting session from Replit
+[![Run on Repl.it](https://repl.it/badge/github/Akshat7678/DexGram)](https://replit.com/@AkshatKumar6/DexGram#main.py)
+-------------------------------------------------
+
+🔺 How to Deploy your UserBot to Heroku 🔺
+
+So I have Updated This Things For Api Id Just GO To This Bot Click There t.me/ceoappid_bot
+- Take APP ID AND HASH FROM HERE https://my.telegram.org
+- For String Session [👉Click here 👈](https://replit.com/@AkshatKumar6/DexGram#main.py)
+- Wait For 2 Mins Until It Asks API ID 
+- When It Ask Api Id And Hash Go To That Bot Which I Gived In Step 1 
+- Then After That Enter Your Phone Number 
+- It will Send A OTP Enter The Otp There
+- Boom 💣 Your String Session Has Been Generated 
+- Now Copy String Session
+- Make login to your heroku Account. 
+
+- Then Fill 
+
+     🔹    App name - with any name you want 
+       
+     🔹    API_HASH  - Put Your Hash In It which you get from my.telegram.org
+
+      🔹  APP_ID - Put your Api In It which you get from my.telegram.org
+
+      🔹 HEROKU_API_KEY - Get Api Key From https://dashboard.heroku.com/account and reveal it ( This will help in update )
+
+     🔹  HEROKU_APP_NAME - Put same name as of App name
+
+     🔹  STRING_SESSION - Put String Session In It 
+
+     🔹  TG_BOT_TOKEN_BF_HER - Make new bot from botfather and put token here
+
+     🔹  TG_BOT_USER_NAME_BF_HER - Put bot Username here ( e.g.  @MyUser_bot )
+
 ### The Normal Way 👨‍💻
 
 Simply clone the repository and run the main file:
