@@ -6,10 +6,11 @@ MADE WITH ❤ BY ```[@Akki_ThePro⚡]```
 ### Installing 📊
 Contact [Me](https://telegram.dog/Akki_ThePro) to report bug or error.
 
-### The Easy Way
-
+#### The Easy Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAkshat7678%2FDexGram&template=https%3A%2F%2Fgithub.com%2FAkshat7678%2FDexGram)
 
+#### Repl.it
+[Run Here](https://replit.com/@AkshatKumar6/DexGram#main.py)
 ### The Normal Way 👨‍💻
 
 Simply clone the repository and run the main file:
