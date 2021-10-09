@@ -11,7 +11,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No Name.**"
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
-    await alive.edit("`Currently Alive`, f"{DEFAULTUSER}" is Pro⚡..!\n\n"
+    await alive.edit("`Currently Alive`, My Master is Pro⚡..!\n\n"
                      
                      " |➖➖➖➖《Bot System》➖➖➖➖| \n"
                      f"`My Master`: **{DEFAULTUSER}**\n"
