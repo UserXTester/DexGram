@@ -6,15 +6,23 @@ from platform import uname
 from userbot import ALIVE_NAME
 from userbot.utils import admin_cmd
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No Name set yet.** [Check Guide.](https://t.me/DexGram/)"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No Name.**"
 
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
-    await alive.edit("`Currently Alive, My Pro master..!` {DEFAULTUSER}\n\n"
-                     "`Telethon version: 6.9.0\nPython: 3.7.3\n`"
-                     # Below is Important Things..
-                     "`Bot created by:` [NubDexter](tg://user?id=440510599)\n"
-                     f"`My Master`: {DEFAULTUSER}\n\n"
-                     "[Deploy this userbot Now](https://github.com/NubDexter/DexGram)\n"
+    await alive.edit("`Currently Alive`, {DEFAULTUSER} is Pro⚡..!\n\n"
+                     
+                     " |➖➖➖➖《Bot System》➖➖➖➖| \n"
+                     f"`My Master`: **{DEFAULTUSER}**\n"
+                     "`Dexgram`: **v1.0**\n"
+                     "`Status`: **Online**\n"
+                     "`Telethon`: **v1.23**\n"
+                     "`Python`: **v3.9.8**\n"
+                     "`GitHub`: **Connected**\n"
+                     "`Heroku`: **Connected**\n"
+                     "`Any Help` : @DexGram_Official\n
+                     "`Bot By`: @Akki_ThePro\n\n"
+
+                     "[Deploy DexGram](https://github.com/Akshat7678/DexGram)"
                      
