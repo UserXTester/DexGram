@@ -1,5 +1,5 @@
 ## TeamDexGram
-MADE WITH ❤ BY ```[@Akki_ThePro⚡](https://Telegram.dog/AkkiThePro)```
+MADE WITH ❤ BY ```[@Akki_ThePro⚡]```
 
 ### Support - ```@Dexgram_Official```
 
