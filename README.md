@@ -29,21 +29,21 @@ So I have Updated This Things For Api Id Just GO To This Bot Click There t.me/ce
 
 - Then Fill 
 
-     🔹    App name - with any name you want 
+🔹 App name - with any name you want 
        
-     🔹    API_HASH  - Put Your Hash In It which you get from my.telegram.org
+🔹 API_HASH  - Put Your Hash In It which you get from my.telegram.org
 
-      🔹  APP_ID - Put your Api In It which you get from my.telegram.org
+🔹 APP_ID - Put your Api In It which you get from my.telegram.org
 
-      🔹 HEROKU_API_KEY - Get Api Key From https://dashboard.heroku.com/account and reveal it ( This will help in update )
+🔹 HEROKU_API_KEY - Get Api Key From https://dashboard.heroku.com/account and reveal it ( This will help in update )
 
-     🔹  HEROKU_APP_NAME - Put same name as of App name
+🔹 HEROKU_APP_NAME - Put same name as of App name
 
-     🔹  STRING_SESSION - Put String Session In It 
+🔹 STRING_SESSION - Put String Session In It 
 
-     🔹  TG_BOT_TOKEN_BF_HER - Make new bot from botfather and put token here
+🔹 TG_BOT_TOKEN_BF_HER - Make new bot from botfather and put token here
 
-     🔹  TG_BOT_USER_NAME_BF_HER - Put bot Username here ( e.g.  @MyUser_bot )
+🔹 TG_BOT_USER_NAME_BF_HER - Put bot Username here ( e.g.  @MyUser_bot )
 
 ### The Normal Way 👨‍💻
 
