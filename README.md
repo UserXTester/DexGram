@@ -1,7 +1,10 @@
-### MADE WITH ❤ BY [@Akki_ThePro⚡](https://Telegram.dog/AkkiThePro)
+## TeamDexGram
+> MADE WITH ❤ BY [@Akki_ThePro⚡](https://Telegram.dog/AkkiThePro)
+> Also Support - @Dexgram_Official
 
-# Installing 📊
+### Installing 📊
 Contact [Me](https://telegram.dog/Akki_ThePro) to report bug or error.
+
 ### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAkshat7678%2FDexGram&template=https%3A%2F%2Fgithub.com%2FAkshat7678%2FDexGram)
@@ -10,7 +13,7 @@ Contact [Me](https://telegram.dog/Akki_ThePro) to report bug or error.
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/NubDexter/DexGram
+git clone https://github.com/Akshat7678/DexGram
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
