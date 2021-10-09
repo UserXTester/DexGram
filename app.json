@@ -1,6 +1,6 @@
 {
   "name": "DexGram",
-  "description": "Userbot created by a @NubDexter Ask https://t.me/NubDexter for any problems or support",
+  "description": "Userbot created by @Akki_ThePro, for any problems or support @DexGram_Official",
   "logo": "https://telegra.ph/file/1b1304649ee3ecd281322.jpg",
   "keywords": [
     "telegram",
@@ -10,8 +10,8 @@
     "productivity"
   ],
   "repository": "https://github.com/NubDexter/DexGram/",
-  "website": "#TODO",
-  "success_url": "#TODO",
+  "website": "https://t.me/Akki_ThePro",
+  "success_url": "https://t.me/DexGram_Official",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
