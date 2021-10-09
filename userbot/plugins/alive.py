@@ -11,10 +11,10 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No Name set yet.** [Check Gu
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
-    await alive.edit("`Currently Alive, my peru master!` **ψ(｀∇´)ψ**\n\n"
+    await alive.edit("`Currently Alive, My Pro master..!` {DEFAULTUSER}\n\n"
                      "`Telethon version: 6.9.0\nPython: 3.7.3\n`"
-                     # Don't change this else you a TikTok loser, Son of Jinping. Add your own.
+                     # Below is Important Things..
                      "`Bot created by:` [NubDexter](tg://user?id=440510599)\n"
-                     f"`Sabka Baap`: {DEFAULTUSER}\n\n"
+                     f"`My Master`: {DEFAULTUSER}\n\n"
                      "[Deploy this userbot Now](https://github.com/NubDexter/DexGram)\n"
                      
