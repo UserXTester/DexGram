@@ -1,6 +1,7 @@
 ## TeamDexGram
-> MADE WITH ❤ BY [@Akki_ThePro⚡](https://Telegram.dog/AkkiThePro)
-### > Also Support - @Dexgram_Official
+```MADE WITH ❤ BY [@Akki_ThePro⚡](https://Telegram.dog/AkkiThePro)```
+
+### Support - @Dexgram_Official
 
 ### Installing 📊
 Contact [Me](https://telegram.dog/Akki_ThePro) to report bug or error.
