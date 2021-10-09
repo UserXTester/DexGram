@@ -1,6 +1,6 @@
-# MADE WITH ❤ BY @NubDexter 🇮🇳🇮🇳
+# MADE WITH ❤ BY @Akki_ThePro [🇮🇳]
 # Installing
-Contact https://t.me/NubDexter to report bug or error.
+Contact https://telegram.dog/Akki_ThePro to report bug or error.
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
