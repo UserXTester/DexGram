@@ -66,7 +66,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "1037944593",
+      "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {
